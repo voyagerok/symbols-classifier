@@ -4,5 +4,5 @@
 ## Зависимости
 gtk3 >= 3.14, glib2, autotools
 
-# Компиляция и запуск
+## Компиляция и запуск
 ``` autoreconf --install --force && ./configure && make && src/kozinets ```
